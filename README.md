@@ -1,4 +1,5 @@
 # Asp.Net Core | Help Center
+From [gustavoquinalha](https://github.com/gustavoquinalha/jekyll-help-center-theme)
 
 # Color theme
 edit in _config.yml
